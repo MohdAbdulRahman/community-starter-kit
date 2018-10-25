@@ -36,3 +36,4 @@ firstPRMergeComment: >
 ### Example Messages
 
 CONFIGS PLACEHOLDER
+HI! WELCOME TO MY APP

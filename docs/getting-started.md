@@ -38,3 +38,5 @@ firstPRMergeComment: >
 
 CONFIGS PLACEHOLDER
 HI! WELCOME TO MY APP
+welcome instruction
+first follow the instruction

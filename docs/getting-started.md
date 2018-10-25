@@ -1,4 +1,4 @@
-# Getting Started Guide
+Getting Started Guide
 
 This guide will help you get started using **welcome bot** on your own repositories. For more information on what this bot does, check out the [README](../README.md).
 

@@ -3,10 +3,12 @@
 DESCRIPTION PLACEHOLDER
 
 ## What it does
+ an easy communication between user and server
 
 FEATURES PLACEHOLDER
 
 ## Getting started
+it is easy to get started
 
 1. [Install the bot](https://github.com/apps/welcome) on the intended repositories. The plugin requires the following **Permissions and Events**:
 

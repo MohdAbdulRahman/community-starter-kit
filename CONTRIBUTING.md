@@ -1,4 +1,4 @@
-# Contributing to Team Roundup Bot
+# Draft to contributing guide
 
 We :heart: contributions from our community! Thank you for taking the time to review this guide and understand how we work. And please remember, all interactions in this repository should adhere to the [code of conduct](code-of-conduct.md).
 
